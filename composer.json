@@ -1,19 +1,11 @@
 {
-    "name": "qossmic/deptrac-shim",
-    "description": "deptrac phar distribution",
+    "name": "jeslopcru/deptrac-shim",
+    "description": "deptrac phar distribution fork for php8.2",
     "license": "MIT",
     "authors": [
         {
-            "name": "Tim Glabisch"
-        },
-        {
-            "name": "Simon Mönch",
-            "email": "simon.moench@qossmic.com"
-        },
-        {
-            "name": "Denis Brumann",
-            "email": "denis.brumann@qossmic.com",
-            "role": "maintainer"
+            "name": "Jesus Lopez"
+            "email": "jeslopcru@gmail.com"
         }
     ],
     "require": {
